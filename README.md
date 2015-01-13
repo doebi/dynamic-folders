@@ -15,6 +15,7 @@ Creating new folders and files on the fly, while in a rush will quickly let you 
     - adfdsdgfsafsdfsd.txt
 
 And today i had an idea when reading this xkcd:
+
 ![xkcd](http://imgs.xkcd.com/comics/documents.png)
 
 
@@ -35,4 +36,4 @@ Those files would fit their needs, being able to get edited and the user doesn't
 Yet one could go a step further and have the os detect and determine which files belong together.
 Based on this information and some learning algorithms, files could be grouped into folders.
 
-#GetsImplementedWhenIHaveTime
+# *GetsImplementedWhenIHaveTime*
